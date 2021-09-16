@@ -1,0 +1,47 @@
+.main-background {
+  background-color: rgb(150, 150, 255);
+}
+
+.main-header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.link {
+  display: grid;
+  color: blue;
+  background-color: rgb(159, 163, 98);
+  margin-right: 50%;
+  padding-bottom: 4px;
+}
+
+.link:hover {
+  color: black;
+}
+
+.images {
+  height: 300px;
+  width: auto;
+  padding-left: 35%;
+}
+
+.sub-header {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  background-color: brown;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.other-texts {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+}
